@@ -35,12 +35,12 @@
     {
       "name": "AICamp Platform",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://app.aicamp.so"
     },
     {
       "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "icon": "discord",
+      "url": ""
     },
     {
       "name": "Blog",
